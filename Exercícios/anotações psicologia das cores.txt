@@ -1,0 +1,50 @@
+CORES
+
+Representação de cores:
+
+Podemos colocar cores em um site usando métodos como:
+
+- Representação por nome das cores (ex: Blue, forma a cor azul)
+
+- Representação por códigos hexadecimais (EX: #0000ff forma a cor azul)
+* Decimal: 0 1 2 3 4 5 6 7 8 9
+* Hexadecimal: 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+- Representação em RGB (Red, Green, Blue)
+ex: rgb(0, 0, 255) - forma a cor azul
+
+- Representação por HSL (Hue, Saturation, Luminosity) = Matiz, saturação e luminosidade.
+ex: hsl(240, 100%, 50%) forma a cor azul.
+
+- Representação com auxílios automático do VSCODE ao passar o mouse em cima.
+* Barra superior: podemos escolher entre, código hexadecimal, rgb e hsl.
+* Barra lateral(direita): escolhemos a cor
+* campo esquerdo: escolhemos o tom da cor
+* barra do meio: Escolhemos a trsnparência / opacidade da cor, o que transforma,
+HSL em hsla (o "a" no final representa "ALPHA" que é a transparência)
+RGB em rgba (o "a" no final representa "ALPHA" que é a transparência)
+
+
+CORES PRIMÁRIAS:
+- Amarelo
+- Vermelho
+- Azul
+
+as três formam um triângulo simétrico no círculo cromático
+
+CORES SECUNDÁRIAS:
+- Laranja
+- Violeta 
+- Verde 
+
+CORES TERCIÁRIAS:
+São todas as demais cores que são misturas das cores primárias e secundárias 
+OBS: Sempre que for nomear uma cor terciária, devemos colocar primeiro o nome da cor primária
+e depois o da cor secundária.
+
+
+OBS: caso vá criar um site para uma empresa, observar a cor primária do logo para utilizá-la
+no site.
+
+
+
